@@ -66,5 +66,15 @@ section {
     width: 80%;
     box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.2);
 }
+* {
+    all: unset;
+}
 
+body {
+    font-family: 'Poppins', sans-serif !important;
+    background: linear-gradient(to right, #1e3c72, #2a5298) !important;
+    margin: 0 !important;
+    padding: 0 !important;
+    color: white !important;
+}
     
